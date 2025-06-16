@@ -8,7 +8,7 @@ API_ID = "25805829"
 # -------------------------------------------------------------
 API_HASH = "f65c202eddcf522bb485d4ab866cd295"
 # --------------------------------------------------------------
-BOT_TOKEN = getenv("BOT_TOKEN", "7257164727:AAEUfb0sMS5suyd636YmwdVP_g3M2FWA3js")
+BOT_TOKEN = getenv("BOT_TOKEN", "7591932559:AAFh4dga16Nw-VSE7MbeysMiCrC7tSsD1ig")
 STRING1 = getenv("STRING_SESSION", None)
 MONGO_URL = getenv("MONGO_URL", "mongodb+srv://Sweettoxic:Sweettoxic@sweettoxic.mg57v4c.mongodb.net/?retryWrites=true&w=majority")
 OWNER_ID = int(getenv("OWNER_ID", "8130271170"))
